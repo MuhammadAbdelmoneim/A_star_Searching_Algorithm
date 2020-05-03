@@ -1,5 +1,6 @@
-# CPPND: Capstone Hello World Repo
+ A_star_Searching_Algorithm
 
+<<<<<<< HEAD
 #A_star_Searching_Algorithm
 
 This is a repo for the implementation of A* searching algorithm and and an explanatory application                                  .
@@ -19,6 +20,7 @@ The explanatory Application is an application used to find the shortest path bet
   🚗 ⛰️  0  0  ⛰️  0                                                                                                                 .
   🚗 🚗 🚗 🚗 🚗 🏁                                                                                                                   .
   The output will be something like that                                                                                            .
+
 
 ## Basic Build Instructions
 
