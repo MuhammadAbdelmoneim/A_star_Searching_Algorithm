@@ -1,8 +1,8 @@
-#A_star_Searching_Algorithm
+# A_star_Searching_Algorithm
 
 This is a repo for the implementation of A* searching algorithm and and an explanatory application                      ,                                          
 Th e explanatory Application is an application used to find the shortest path between two points                        ,                     
-##Input 
+## Input 
  A matrix of 1's ans 0's the 0 represents a empty path and the 1 represents an obstacle like this                       .                                  
   0, 1, 1, 0, 0, 0,                                                                                                     .                                                                                                                 
   0, 1, 1, 0, 0, 0,                                                                                                     .            
@@ -10,7 +10,7 @@ Th e explanatory Application is an application used to find the shortest path be
   0, 1, 0, 0, 1, 0,                                                                                                     .           
   0, 0, 0, 0, 0, 0,                                                                                                     .
   this a 5x6 matrix for example if we wish to find the shortest path from the point [0,0] to [4,5]                      .            
- ##Output             
+ ## Output             
   🚦 ⛰️  ⛰️  0  0  0                                                                                                     .                                                                                                               
   🚗 ⛰️  ⛰️  0  0  0                                                                                                     .           
   🚗 ⛰️  0  ⛰️  0  0                                                                                                     .          
