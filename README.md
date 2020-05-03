@@ -15,11 +15,9 @@ Th e explanatory Application is an application used to find the shortest path be
   🚗 ⛰️  ⛰️  0  0  0                                                                                                     .           
   🚗 ⛰️  0  ⛰️  0  0                                                                                                     .          
   🚗 ⛰️  0  0  ⛰️  0                                                                                                     .         
-  🚗 🚗 🚗 🚗 🚗 🏁                                                                                                       .            
+  🚗  🚗  🚗  🚗  🚗   🏁                                                                                                       .            
   The output will be something like that                                                                                .           
-
 ## Basic Build Instructions
-
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
